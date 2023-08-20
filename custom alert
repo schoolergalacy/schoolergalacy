@@ -1,0 +1,4 @@
+
+javascript:(function() {
+    alert("custom alert!");
+})();
